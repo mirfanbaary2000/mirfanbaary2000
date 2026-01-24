@@ -13,7 +13,6 @@ FRONTEND:
 
 BACKEND: 
    - JS 
-   - PYTHON 
    - PHP 
    - JAVA 
    - NODE.JS 
