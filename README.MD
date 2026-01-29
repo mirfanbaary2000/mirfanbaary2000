@@ -6,13 +6,13 @@ My several skills during of (Learn/Excercise/Practices) on the other sides betwe
 
 FRONTEND:
   - HTML
-  - CSS
-  - JS
+  - CSS (CASCADING STYLE SHEET)
+  - JS (JAVASCRIPT)
   - REACT
   - TAILWIND CSS
 
 BACKEND:
-  - JS
+  - JS (JAVASCRIPT)
   - PHP
   - JAVA
   - KOTLIN
