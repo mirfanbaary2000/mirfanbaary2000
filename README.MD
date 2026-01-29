@@ -15,6 +15,7 @@ BACKEND:
   - JS
   - PHP
   - JAVA
+  - KOTLIN
   - NODE.JS
   - LARAVEL
   - CODEIGNITER
